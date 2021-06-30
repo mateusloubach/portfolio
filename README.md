@@ -1,15 +1,15 @@
-# A Libre Portifolio - An React Web Application
+# Portifolio - React Web Application
 
 This repository is for all developers who want to own a personal website portifolio. Be free to clone,fork and change it like you want.
 
-[page](https://librefolio.netlify.app/).
+[click here](https://mcloubach.netlify.app/) to see portfolio.
 
-![GIF](https://github.com/Wtheodoro/librefolio/blob/main/public/gif/desktopPreview.gif?raw=true)
+![image](https://github.com/mateusloubach/portfolio/blob/main/public/images/home-page.png?raw=true)
 
-**Any bug? Open a issue.**
-**There is not a mobile version YET**
+**Any bug? Open an issue.**
+**There isn't a mobile version... YET!**
 
-## `Builded with`
+## `Built with`
 - React
 - Typescript
 - Styled Components
